@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+.env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+
+# Environment files
+*.env
+
+# Logs
+*.log
+
+
+Thumbs.db
