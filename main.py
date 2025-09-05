@@ -3,11 +3,6 @@ from aeroplane import Aeroplane
 
 aeroplane_List = []
 
-aeroplane1 = Aeroplane(1)
-aeroplane2 = Aeroplane(2)
-aeroplane_List.append(aeroplane1)
-aeroplane_List.append(aeroplane2)
-
 print("--------Welcome to the Aeroplane Management System--------")
 
 while True:
